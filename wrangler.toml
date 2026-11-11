@@ -1,0 +1,6 @@
+name = "qognix-docuflow-api"
+main = "index.js"
+compatibility_date = "2026-11-11"
+
+[vars]
+GEMINI_MODEL = "gemini-2.5-flash"
